@@ -15,10 +15,10 @@ This project analyzes customer sales data using Python. It reads a CSV file, cle
    `python main.py`
 
 ## Output
-- CSV file of categorized customers
+- CSV file of categorised customers
 - Bar chart (sales by category)
 - Histogram (purchase distribution)
 
 ## What I Learned
-I learned how to use pandas for data cleaning, matplotlib for visualization, and how to organize Python code into modules.
+I learned how to use pandas for data cleaning, matplotlib for visualisation, and how to organise Python code into modules.
 
